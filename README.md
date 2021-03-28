@@ -4,3 +4,18 @@ Comgrads is specifically designed for students all over the world to connect wit
 Students are required to select either course or competitions option
 From there, the students directed towards the platform where they can either swipe right if they like the course/competition and left if they are not interested in that particular competition/course
 The details of the courses and competitions are visible through "i" button located on the currently open card.
+
+WEB APP-
+https://github.com/harshsharma2210/Comgrads-app
+https://comgrads.herokuapp.com/
+
+Home Page-
+https://github.com/kkanoo/Comgrads
+https://kkanoo.github.io/Comgrads/
+
+BOT LINK-
+http://230e4ee7c007.ngrok.io/
+https://github.com/kkanoo/Chat-Bot
+
+Main REPO-
+https://github.com/rahul21200/Hacko-16-Comgrads/
