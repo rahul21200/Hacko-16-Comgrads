@@ -9,4 +9,4 @@ WEB APP-
 https://comgrads.herokuapp.com/
 
 Home Page-
-https://github.com/kkanoo/Comgrads_Resources
+https://kkanoo.github.io/Comgrads_Home_Page/
