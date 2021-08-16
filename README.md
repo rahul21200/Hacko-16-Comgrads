@@ -6,16 +6,7 @@ From there, the students directed towards the platform where they can either swi
 The details of the courses and competitions are visible through "i" button located on the currently open card.
 
 WEB APP-
-https://github.com/harshsharma2210/Comgrads-app
 https://comgrads.herokuapp.com/
 
 Home Page-
-https://github.com/kkanoo/Comgrads
-https://kkanoo.github.io/Comgrads/
-
-BOT LINK-
-http://230e4ee7c007.ngrok.io/
-https://github.com/kkanoo/Chat-Bot
-
-Main REPO-
-https://github.com/rahul21200/Hacko-16-Comgrads/
+https://github.com/kkanoo/Comgrads_Resources
